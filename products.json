@@ -1,5 +1,8 @@
 [
-{"nome":"Saque de Fé","categoria":"Vôlei","preco":"89,90"},
-{"nome":"Beach Performance","categoria":"Beach Tennis","preco":"89,90"},
-{"nome":"Disciplina Foco Vitória","categoria":"Lifestyle","preco":"89,90"}
+{"name":"Disciplina","desc":"A vitória começa no treino.","price":"R$ 89,90"},
+{"name":"Saque de Fé","desc":"Jogue com propósito.","price":"R$ 89,90"},
+{"name":"Propósito","desc":"Muito além do esporte.","price":"R$ 89,90"},
+{"name":"Foco na Vitória","desc":"Treine com intensidade.","price":"R$ 89,90"},
+{"name":"Fé em Movimento","desc":"Cada passo importa.","price":"R$ 89,90"},
+{"name":"Court Warrior","desc":"Para quem vive a quadra.","price":"R$ 89,90"}
 ]
